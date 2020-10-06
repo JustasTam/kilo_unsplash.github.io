@@ -64,11 +64,14 @@
 }
 
 .card--image {
-  max-width: 100%;
-  max-height: 300px;
-  /*flex: 100%;*/
+  flex: 1;
   margin-top: 1rem;
   border-radius: 10px;
+
+  width: 100%;
+  max-width: 300px;
+  max-height:100%;
+  object-fit: contain;
 }
 
 @media (min-width: 768px) {

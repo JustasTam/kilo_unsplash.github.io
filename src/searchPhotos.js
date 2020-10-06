@@ -23,8 +23,6 @@ export default function SearchPhotos() {
     <>
     	<form className="form" onSubmit={searchPhotos}> 
         <label className="label" htmlFor="query"> 
-          {" "}
-          📷
         </label>
         <input
           type="text"
