@@ -19,21 +19,23 @@
 ## Repository:
 	https://github.com/JustasTam/kilo_unsplash.github.io
 
+## Github Pages:
+	https://justastam.github.io/kilo_unsplash.github.io/
+	
 --------------------------------------------------------
 
-One page app
-Clear and responsive UI/UX
-Implemented unsplash.com API for image fetch
-Users can search images through different keywords
-Fetched images are parsed and shown in grid
-While fetching progress indicator is shown
-If there are no found images - modal is shown
-Hosted on GitHub Pages:
-	https://justastam.github.io/kilo_unsplash.github.io/
-Responsive design
-SASS/CSS upstyle
-Git cms / Github cvs
-Directory logically structured / light
-Clean source code
-Self explanatory
-Simple unpslash API guidelines
+One page app;
+Clear and responsive UI/UX;
+Implemented unsplash.com API for image fetch;
+Users can search images through different keywords;
+Fetched images are parsed and shown in grid;
+While fetching progress indicator is shown;
+If there are no found images - modal is shown;
+Hosted on GitHub Pages;
+Responsive design;
+SASS/CSS upstyle;
+Git cms / Github cvs;
+Directory logically structured / light;
+Clean source code;
+Self explanatory;
+Simple unpslash API guidelines;
