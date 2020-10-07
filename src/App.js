@@ -1,14 +1,17 @@
 import React from 'react';
 import './App.css';
-import SearchPhotos from "./searchPhotos"
+import SearchPhotos from "./searchPhotos";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import Container from 'react-bootstrap/Container';
 
 function App() {
   return (
-    <div className="App">
-      <div className="container">
+    <div>
+      <Container>
         <h1 className="title">Unsplash API search</h1>
         <SearchPhotos />
-      </div>
+      </Container>
     </div>
   );
 }

@@ -5,88 +5,33 @@
   font-size: 10px;
 }
 
-.App {
-  margin: 0;
-  padding: 0;
-}
-
-.container {
-  margin: 0 auto;
-  max-width: 1000px;
-  padding: 40px;
-}
-
 .title {
-  font-size: 4.4rem;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-top: 1em;
+  padding-left: 0.5em;
 }
 
-.form {
-  display: grid;
-}
-
-.label {
-  font-size: 3rem;
-  margin-bottom: 1rem;
-}
-
-.input {
-  font-size: 1.6rem;
-  padding: 0.5rem 2rem;
-  line-height: 2.8rem;
-  border-radius: 20px;
-  background-color: white;
-  margin-bottom: 1rem;
-}
-
-.button {
-  background-color: rgba(0, 0, 0, 0.75);
-  color: white;
-  padding: 1rem 2rem;
-  border: 1px solid rgba(0, 0, 0, 0.75);
-  border-radius: 20px;
-  font-size: 1.4rem;
-  cursor: pointer;
-  transition: background-color 250ms;
-}
-
-.button:hover {
-  background-color: rgba(0, 0, 0, 0.85);
-}
-
-.card-list {
-  column-count: 3;
-}
-
-.card {
-  /*margin-bottom: 1rem;*/
-  display: flex;
+.search_form {
+  padding: 1.5em;
 }
 
 .card--image {
-  flex: 1;
-  margin-top: 1rem;
-  border-radius: 10px;
-
+  background: #fff;
+  padding: 1.5em;
+  margin: 0 0 1.5em;
   width: 100%;
-  max-width: 300px;
-  max-height:100%;
-  object-fit: contain;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.18);
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
 }
 
-@media (min-width: 768px) {
-  .form {
-    grid-template-columns: auto 1fr auto;
-    grid-gap: 1rem;
-    align-items: center;
-  }
-  .input {
-    margin-bottom: 0;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .card-list {
-    column-count: 1;
-  }
+.spinner {
+  width: "100%";
+  height: "100";
+  display: "flex";
+  align-items: center;
+  text-align: center;
 }
