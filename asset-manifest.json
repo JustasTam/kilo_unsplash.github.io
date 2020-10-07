@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kilo_unsplash.github.io/static/css/main.da63812a.chunk.css",
+    "main.js": "/kilo_unsplash.github.io/static/js/main.56f4a48c.chunk.js",
+    "main.js.map": "/kilo_unsplash.github.io/static/js/main.56f4a48c.chunk.js.map",
+    "runtime-main.js": "/kilo_unsplash.github.io/static/js/runtime-main.6155f780.js",
+    "runtime-main.js.map": "/kilo_unsplash.github.io/static/js/runtime-main.6155f780.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/kilo_unsplash.github.io/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e3fe0302.chunk.js": "/kilo_unsplash.github.io/static/js/2.e3fe0302.chunk.js",
+    "static/js/2.e3fe0302.chunk.js.map": "/kilo_unsplash.github.io/static/js/2.e3fe0302.chunk.js.map",
+    "index.html": "/kilo_unsplash.github.io/index.html",
+    "precache-manifest.c844b38a4e9c377b9bf558acf7429d6a.js": "/kilo_unsplash.github.io/precache-manifest.c844b38a4e9c377b9bf558acf7429d6a.js",
+    "service-worker.js": "/kilo_unsplash.github.io/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/kilo_unsplash.github.io/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.da63812a.chunk.css.map": "/kilo_unsplash.github.io/static/css/main.da63812a.chunk.css.map",
+    "static/js/2.e3fe0302.chunk.js.LICENSE.txt": "/kilo_unsplash.github.io/static/js/2.e3fe0302.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6155f780.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e3fe0302.chunk.js",
+    "static/css/main.da63812a.chunk.css",
+    "static/js/main.56f4a48c.chunk.js"
+  ]
+}
