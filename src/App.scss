@@ -1,7 +1,10 @@
+$backgroundColor: rgb(244, 244, 244);
+$color: #333;
+
 * {
   box-sizing: border-box;
-  background-color: rgb(244, 244, 244);
-  color: #333;
+  background-color: $backgroundColor;
+  color: $color;
   font-size: 10px;
 }
 
